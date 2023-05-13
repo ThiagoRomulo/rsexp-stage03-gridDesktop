@@ -144,7 +144,7 @@ aside p {
   }
 }
 
-@media (min-width:400px) {
+@media (min-width:700px) {
   .page {
     max-width: 128rem;
     min-width: 95rem;
